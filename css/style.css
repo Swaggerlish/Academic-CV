@@ -15,6 +15,9 @@ img{
     width: 200px;
     margin-right: 100px;
 }
+h1, h2{
+    font-size: 1.5rem
+}
 .tel{
     text-align: center;
 }
@@ -23,9 +26,12 @@ img{
 
 }
 .profile{
-    font-size:16px;
+    font-size:1.01rem;
     line-height: 0.8;
 }
 strong{
     margin-right: 10px;
+}
+li{
+    font-size:1.01rem;
 }
