@@ -1,0 +1,31 @@
+.address{
+    text-align: center;
+}
+body{
+    background-color: #E3F6FF
+}
+.email{
+    text-align: center;
+
+}
+.heading{
+    text-align: center;
+}
+img{
+    width: 200px;
+    margin-right: 100px;
+}
+.tel{
+    text-align: center;
+}
+.about{
+    text-align: center;
+
+}
+.profile{
+    font-size:1.01rem;
+    line-height: 0.8;
+}
+strong{
+    margin-right: 10px;
+}
