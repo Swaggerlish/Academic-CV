@@ -22,3 +22,10 @@ img{
     text-align: center;
 
 }
+.profile{
+    font-size:16px;
+    line-height: 0.8;
+}
+strong{
+    margin-right: 10px;
+}
